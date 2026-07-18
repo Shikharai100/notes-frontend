@@ -1,0 +1,2 @@
+# notes-frontend
+A simple and responsive Notes App built with React and Tailwind CSS. Users can create and delete notes through a clean and interactive interface.
