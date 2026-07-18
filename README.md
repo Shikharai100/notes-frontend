@@ -1,8 +1,10 @@
-# 📝 Notes Frontend
+#  Notes Frontend
+
+This project was initially built by following a React + Vite tutorial to strengthen my understanding of React fundamentals, component-based architecture, and state management. I'm using it as a learning project and plan to continue improving it by adding new features and integrating a backend as I learn technologies like Node.js, Express, and databases.
 
 A modern and responsive Notes application built with React and Vite. Users can create, edit, delete, and organize notes through a clean and intuitive interface.
 
-## ✨ Features
+##  Features
 
 - Create new notes
 - Edit existing notes
@@ -11,7 +13,7 @@ A modern and responsive Notes application built with React and Vite. Users can c
 - Fast development with Vite
 - Clean and reusable React components
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React
 - Vite
@@ -20,7 +22,7 @@ A modern and responsive Notes application built with React and Vite. Users can c
 - Tailwind CSS (if you're using it)
 - Lucide React Icons
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -31,7 +33,7 @@ src/
 └── index.css
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -61,16 +63,17 @@ http://localhost:5173
 
 _Add screenshots of your application here._
 
-## 📌 Future Improvements
+##  Future Improvements
 
-- User authentication
-- Dark mode
-- Search notes
-- Categories and tags
-- Backend integration
-- Cloud storage
+-  User authentication
+-  Backend API with Node.js and Express
+-  MongoDB integration
+-  Search and filter notes
+-  Categories and tags
+-  Dark mode
+-  Deploy the application
 
-## 👨‍💻 Author
+##  Author
 
 **Shikha**
 
