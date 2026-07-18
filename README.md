@@ -1,16 +1,77 @@
-# React + Vite
+# 📝 Notes Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Notes application built with React and Vite. Users can create, edit, delete, and organize notes through a clean and intuitive interface.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Create new notes
+- Edit existing notes
+- Delete notes
+- Responsive design
+- Fast development with Vite
+- Clean and reusable React components
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+- Tailwind CSS (if you're using it)
+- Lucide React Icons
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+src/
+├── components/
+├── assets/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/Shikharai100/notes-frontend.git
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```
+http://localhost:5173
+```
+
+## 📸 Screenshots
+
+_Add screenshots of your application here._
+
+## 📌 Future Improvements
+
+- User authentication
+- Dark mode
+- Search notes
+- Categories and tags
+- Backend integration
+- Cloud storage
+
+## 👨‍💻 Author
+
+**Shikha**
+
+GitHub: https://github.com/Shikharai100
