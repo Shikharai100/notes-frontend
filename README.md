@@ -59,9 +59,9 @@ The application will be available at:
 http://localhost:5173
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
-_Add screenshots of your application here._
+Notes App-> (assets/noteApp.png)
 
 ##  Future Improvements
 
