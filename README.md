@@ -19,7 +19,7 @@ A modern and responsive Notes application built with React and Vite. Users can c
 - Vite
 - JavaScript (ES6+)
 - CSS
-- Tailwind CSS (if you're using it)
+- Tailwind CSS
 - Lucide React Icons
 
 ##  Project Structure
